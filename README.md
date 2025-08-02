@@ -1,4 +1,7 @@
+
+
 ---
+
 
 # Analyse et Prévision des Séries Temporelles avec Python
 
@@ -84,6 +87,7 @@ Le contenu est structuré pour offrir une progression logique : introduction aux
 * **AutoML pour la prévision des séries temporelles**
 
   * Automatisation de la prévision temporelle avec FLAML
+
 
 ---
 
